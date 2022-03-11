@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning C# .NET
-- 😄 Pronouns: She / Her
+- 🤓 I’m currently learning C# .NET and React Native
+- 👩‍💻 Pronouns: She / Her
 ##
 <div align="center">
   <a href="https://github.com/tiilde">
