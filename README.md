@@ -5,6 +5,12 @@
 - 🔭 I’m currently working on back-end
 - 🤓 I’m currently learning C# .NET and React Native
 - 👩‍💻 Pronouns: She / Her
+
+<br/>
+ <div align="center">
+      <img align="center" alt="Tilde-cat" height="100" widith= "100" src="https://i.gifer.com/origin/cf/cffb69dea8656d32c4760a7edb2a435e_w200.gif">
+  </div>
+   
 ##
 <div align="center">
   <a href="https://github.com/tiilde">
@@ -23,10 +29,9 @@
     <img align="center" alt="Tilde-CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="Tilde-NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img align="center" alt="Tilde-SqlServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-    <img align="center" alt="Tilde-Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">  
-    <img align="center" alt="Tilde-MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="Tilde-MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
     <img align="center" alt="Tilde-Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-    
+
   </div>
   
  ##
@@ -36,7 +41,7 @@
   <a href="https://www.linkedin.com/in/tilde-bastos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:tilde.bastos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/eh_tilde/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-   
  </div>
+
 
 
