@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on back-end
-- 🤓 I’m currently learning C# .NET and React Native
+- 🤓 I’m currently learning C# .NET, ReactJs and React Native
 - 👩‍💻 Pronouns: She / Her
 
 <br/>
